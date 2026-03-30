@@ -1,2 +1,0 @@
-- [[Wired communication]]
-- [[Wireless communication]]

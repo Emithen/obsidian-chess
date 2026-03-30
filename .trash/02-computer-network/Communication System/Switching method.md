@@ -1,2 +1,0 @@
-- [[Circuit switching]]
-- [[Packet switching]]

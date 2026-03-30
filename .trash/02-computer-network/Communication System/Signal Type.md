@@ -1,2 +1,0 @@
-- [[Analog communication]]
-- [[Digital communication]]
